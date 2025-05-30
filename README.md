@@ -2,7 +2,7 @@
 **Seja bem-vindo ao meu perfil!**
 
 Ola, eu sou o João Victor, estudante de Analise e Desenvolvimento de Sistemas apaixonado por **tecnologia**.
-Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
+Aqui compartilho projetos, ideias e experimentos que refletem minha jornada.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorms/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao12rt@gmail.com)
@@ -18,6 +18,7 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://iconduck.com/icons/13134/mysql-original-wordmark" />
 <br/>
 
 ---
